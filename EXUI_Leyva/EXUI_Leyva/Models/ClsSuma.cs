@@ -24,6 +24,11 @@ namespace EXUI_Leyva.Models
                 return "El número debe ser un entero positivo";
             }
 
+            if (numero > 10)
+            {
+                return "El número no puede ser mayor a 10";
+            }
+
             Numero = numero;
             Formas.Clear();
 

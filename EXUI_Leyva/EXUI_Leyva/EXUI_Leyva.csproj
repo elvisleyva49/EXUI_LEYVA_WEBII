@@ -101,12 +101,16 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\OperacionesController.cs" />
     <Compile Include="Controllers\SumaController.cs" />
+    <Compile Include="Controllers\TransaccionController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\ClsLogin.cs" />
+    <Compile Include="Models\ClsOperaciones.cs" />
     <Compile Include="Models\ClsSuma.cs" />
+    <Compile Include="Models\ClsTransaccion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -116,6 +120,8 @@
     <Content Include="Views\_Viewstart.cshtml" />
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Suma\Index.cshtml" />
+    <Content Include="Views\Transaccion\Index.cshtml" />
+    <Content Include="Views\Operaciones\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
