@@ -10,9 +10,9 @@ namespace EXUI_Leyva.Models
         public string Usuario { get; set; }
         public string Clave { get; set; }
 
-        public static string[] usuarios = { "elvis", "lanchipa" };
-        public static string[] claves = { "123", "123" };
-        public static string[] estados = { "activo", "activo" };
+        public static string[] usuarios = { "elvis", "lanchipa", "erick", "jaime", "blast" };
+        public static string[] claves = { "123", "123", "123", "123", "123" };
+        public static string[] estados = { "activo", "inactivo", "activo", "inactivo", "activo" };
 
         public static int intentos = 0;
 

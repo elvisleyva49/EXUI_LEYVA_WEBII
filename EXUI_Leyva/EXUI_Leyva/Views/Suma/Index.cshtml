@@ -1,0 +1,54 @@
+﻿@model EXUI_Leyva.Models.ClsSuma
+@{
+    ViewBag.Title = "Suma";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card shadow">
+            <div class="card-header bg-dark text-white text-center">
+                <h4 class="mb-0">Calculadora de Formas de Suma</h4>
+            </div>
+            <div class="card-body p-4">
+                @using (Html.BeginForm("Index", "Suma", FormMethod.Post))
+                {
+                    <div class="mb-3">
+                        <label class="form-label">Ingrese un número entero positivo:</label>
+                        @Html.TextBoxFor(m => m.Numero, new { @class = "form-control", placeholder = "Ejemplo: 4", @type = "number", @min = "1" })
+                    </div>
+
+                    <div class="d-grid mb-3">
+                        <button type="submit" class="btn btn-dark btn-lg">Calcular Formas</button>
+                    </div>
+                }
+
+                @if (ViewBag.Mensaje != null)
+                {
+                    <div class="alert @ViewBag.ClaseMensaje text-center" role="alert">
+                        @ViewBag.Mensaje
+                    </div>
+                }
+
+                @if (Model != null && Model.TotalFormas > 0)
+                {
+                    <div class="mt-4">
+                        <h5 class="text-center mb-3">Formas encontradas:</h5>
+                        <div class="row">
+                            @for (int i = 0; i < Model.Formas.Count; i++)
+                            {
+                                <div class="col-md-6 mb-2">
+                                    <div class="alert alert-light border text-center">
+                                        <strong>@(i + 1).</strong> @Model.Formas[i]
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div class="alert alert-info text-center mt-3">
+                            <strong>Total: @Model.TotalFormas formas</strong>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

@@ -11,39 +11,54 @@
     <title>Index</title>
 </head>
 <body>
-    <div>
-        <center>
-            <h2>Login</h2>
-
-            <div class="card">
-                <div class="card-body">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-4">
+            <div class="card shadow">
+                <div class="card-header bg-dark text-white text-center">
+                    <h4 class="mb-0">Iniciar Sesión</h4>
+                </div>
+                <div class="card-body p-4">
                     @using (Html.BeginForm("Index", "Login", FormMethod.Post))
                     {
-                        <div>
-                            <label>Usuario: </label>
-                            @Html.TextBoxFor(m => m.Usuario)
+                        <div class="mb-3">
+                            <label class="form-label">Usuario:</label>
+                            @Html.TextBoxFor(m => m.Usuario, new { @class = "form-control", placeholder = "Ingrese su usuario" })
                         </div>
-                        <br />
-                        <br />
-                        <div>
-                            <label>Contraseña: </label>
-                            @Html.TextBoxFor(m => m.Clave)
-                        </div>
-                        <br />
-                        <br />
 
-                        <div>
-                            <button type="submit">Ingresar</button>
+                        <div class="mb-3">
+                            <label class="form-label">Contraseña:</label>
+                            @Html.TextBoxFor(m => m.Clave, new { @class = "form-control", @type = "password", placeholder = "Ingrese su contraseña" })
+                        </div>
+
+                        <div class="d-grid mb-3">
+                            <button type="submit" class="btn btn-dark btn-lg">Ingresar</button>
                         </div>
 
                         if (ViewBag.Mensaje != null)
                         {
-                            <p>@ViewBag.Mensaje</p>
+                            string alertClass = "alert-info";
+
+                            if (ViewBag.Mensaje.ToString() == "Acceso exitoso")
+                            {
+                                alertClass = "alert-success";
+                            }
+                            else if (ViewBag.Mensaje.ToString().Contains("incorrecto") || ViewBag.Mensaje.ToString().Contains("desactivado") || ViewBag.Mensaje.ToString().Contains("vacios"))
+                            {
+                                alertClass = "alert-danger";
+                            }
+                            else if (ViewBag.Mensaje.ToString().Contains("límite"))
+                            {
+                                alertClass = "alert-warning";
+                            }
+
+                            <div class="alert @alertClass text-center" role="alert">
+                                @ViewBag.Mensaje
+                            </div>
                         }
                     }
                 </div>
             </div>
-        </center>
+        </div>
     </div>
 </body>
 </html>

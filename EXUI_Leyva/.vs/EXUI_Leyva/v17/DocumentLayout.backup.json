@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\controllers\\sumacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\controllers\\sumacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\models\\clssuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\models\\clssuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\views\\suma\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\views\\suma\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\exui_leyva\\models\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\models\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\exui_leyva\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\models\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\models\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|d:\\biblioteca\\imagenes\\exui_leyva\\exui_leyva_webii\\exui_leyva\\exui_leyva\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\exui_leyva\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\exui_leyva\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B87AEB02-AFA7-4877-870F-0432FD8C47AF}|EXUI_Leyva\\EXUI_Leyva.csproj|solutionrelative:exui_leyva\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,26 +66,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\Suma\\Index.cshtml",
+              "RelativeDocumentMoniker": "EXUI_Leyva\\Views\\Suma\\Index.cshtml",
+              "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\Suma\\Index.cshtml",
+              "RelativeToolTip": "EXUI_Leyva\\Views\\Suma\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T18:30:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SumaController.cs",
+              "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Controllers\\SumaController.cs",
+              "RelativeDocumentMoniker": "EXUI_Leyva\\Controllers\\SumaController.cs",
+              "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Controllers\\SumaController.cs",
+              "RelativeToolTip": "EXUI_Leyva\\Controllers\\SumaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:29:18.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsSuma.cs",
+              "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Models\\ClsSuma.cs",
+              "RelativeDocumentMoniker": "EXUI_Leyva\\Models\\ClsSuma.cs",
+              "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Models\\ClsSuma.cs",
+              "RelativeToolTip": "EXUI_Leyva\\Models\\ClsSuma.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:28:48.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "EXUI_Leyva\\Views\\Login\\Index.cshtml",
               "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\Login\\Index.cshtml",
               "RelativeToolTip": "EXUI_Leyva\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-10T17:29:28.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "EXUI_Leyva\\Controllers\\LoginController.cs",
               "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Controllers\\LoginController.cs",
               "RelativeToolTip": "EXUI_Leyva\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T17:27:23.339Z",
               "EditorCaption": ""
@@ -86,33 +137,33 @@
               "RelativeDocumentMoniker": "EXUI_Leyva\\Models\\ClsLogin.cs",
               "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Models\\ClsLogin.cs",
               "RelativeToolTip": "EXUI_Leyva\\Models\\ClsLogin.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T17:25:28.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_Viewstart.cshtml",
               "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\_Viewstart.cshtml",
               "RelativeDocumentMoniker": "EXUI_Leyva\\Views\\_Viewstart.cshtml",
               "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\_Viewstart.cshtml",
               "RelativeToolTip": "EXUI_Leyva\\Views\\_Viewstart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-10T17:25:00.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Layout.cshtml",
               "DocumentMoniker": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\Shared\\Layout.cshtml",
               "RelativeDocumentMoniker": "EXUI_Leyva\\Views\\Shared\\Layout.cshtml",
               "ToolTip": "D:\\Biblioteca\\Imagenes\\EXUI_LEYVA\\EXUI_LEYVA_WEBII\\EXUI_Leyva\\EXUI_Leyva\\Views\\Shared\\Layout.cshtml",
               "RelativeToolTip": "EXUI_Leyva\\Views\\Shared\\Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-10T17:21:22.282Z",
               "EditorCaption": ""
